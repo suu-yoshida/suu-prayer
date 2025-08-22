@@ -12,6 +12,9 @@ A lightweight prayer script for RedM using the **RSG** framework and **ox_lib**.
 - Optional `/pray` command
 - Entry notification when you step into a sacred place (optional)
 
+For the church interior in the config file. you can take this one free on spooni website:
+https://spooni-mapping.tebex.io/package/6506844
+
 ## ✅ Requirements
 - [rsg-core]
 - [ox_lib]
