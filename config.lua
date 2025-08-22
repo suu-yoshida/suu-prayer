@@ -2,7 +2,7 @@ Config = {}
 
 Config.PrayingTime = 8000      -- ms (8 s)
 Config.StressReduction = 20    -- points de stress en moins
-Config.Cooldown = 12       -- ms (2 min)
+Config.Cooldown = 120000       -- ms (2 min)
 
 Config.Churches = {
     { name = "BlackWater Church", coords = vector3(-974.65, -1191.75, 59.01), radius = 10.0 },
